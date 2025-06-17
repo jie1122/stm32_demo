@@ -1,0 +1,31 @@
+# STM32CubeIDE project gitignore
+
+# Build output
+**/Debug/
+**/Release/
+**/build/
+
+# STM32CubeIDE-specific
+*.launch
+*.bin
+*.elf
+*.hex
+*.map
+*.list
+*.log
+*.o
+*.d
+*.dep
+*.i
+
+# Backup/metadata files
+*.bak
+*.tmp
+*.swp
+*.swo
+*.su
+*.metadata
+
+# System files
+.DS_Store
+Thumbs.db
