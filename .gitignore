@@ -24,7 +24,10 @@
 *.swp
 *.swo
 *.su
-*.metadata
+
+
+**/.metadata/
+**/.settings/
 
 # System files
 .DS_Store
